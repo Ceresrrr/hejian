@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Ceresrrr.github.io/hejian/sitemap.xml
